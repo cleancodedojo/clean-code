@@ -1,7 +1,7 @@
 # clean-code
 * The code we write is a manifestation of what's inside our hearts and 
 our minds.
-* Meditate, clear your heart, and mind before you write any code.
+* Meditate. Clear your body, heart, and mind before you write any code.
 * Every line of production grade code we ship, must have a line of 
 production grade automated test that will self validate itself.
 * If all the tests pass, we ship. 
@@ -37,10 +37,10 @@ of the code someone left for you—code left by some- one who cares deeply
 about the craft." - Michael Feathers
 * "In recent years I begin, and nearly end, with Beck’s rules of simple code. 
 In priority order, simple code:
-** Runs all the tests;
-** Contains no duplication;
-** Expresses all the design ideas that are in the system;
-** Minimizes the number of entities such as classes, methods, functions, and the like." - Ron Jeffries
+1. Runs all the tests.
+2. Contains no duplication.
+3. Expresses all the design ideas that are in the system.
+4. Minimizes the number of entities such as classes, methods, functions, and the like." - Ron Jeffries
 * "You know you are working on clean code when each routine you read 
 turns out to be pretty much what you expected. You can call it beautiful 
 code when the code also makes it look like the language was made for the 
