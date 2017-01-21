@@ -32,5 +32,16 @@ and express it well.
 #### c5. commented out code
 * delete it immediately, it is forbidden.
 
+### environment
+
+#### e1. build requires more than one step
+* You should be able to check out the system with one simple command and 
+then issue one other simple command to build it.
+* `.love> ./build.sh`
+
+#### e2. tests require more than one step
+* you should be able to run all the unit tests with just one command. 
+* `.love> ./test.sh`
+
 ## references
 * martin, robert. clean code. a handbook of agile software craftsmanship.
